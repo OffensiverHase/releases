@@ -134,7 +134,7 @@ true # number(int) 1 for true and 0 for false
 ```
 common operators are:\
 binary: +, -, *, /, ^\
-logical: =, !=, {, }, {=, }=, !, &, |\
+logical: =, {}, {, }, {=, }=, !, &, |\
 other: ~, <, >, ;\
 
 
