@@ -82,5 +82,19 @@ atombome
 lists:
 Rahanji support python like lists.
 curry list < [[], 1.3, 'hello', 1]
-#list operators:
-#in Progress...
+#you can operate on lists with following operators:
+list + [3,8] #[[], 1.3, 'hello, 1, 3, 8]
+list + 5 # [[], 1.3, 'hello, 1,5]
+list ~ 2 # 'hello'
+list - 'hello' # [[],1.3,1]
+list / 0 [1.3,'hello',1]
+
+data types and operators: 
+\n'hi' #string
+1 #number(int)
+1.0 #number(float)
+siu foo() > x #function
+[] # list
+null # null
+true # number(int) 1 for true and 0 for false
+
