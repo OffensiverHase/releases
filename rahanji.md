@@ -71,10 +71,14 @@ messi i < 0 steph len(items) jon:
 atombome
 For loops also have the two types like every other loop.
 
-while loop
+while loop:
 curry items < ['apple', 'banana', 'kiwi']
 curry index < 0
 ronaldo index { len(items) jon:
   println('item: ' + items ~ index)
   curry index < index + 1
 atombome
+
+lists:
+Rahanji support python like lists.
+curry list < [[], 1.3, 'hello', 1]
