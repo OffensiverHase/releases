@@ -82,3 +82,5 @@ atombome
 lists:
 Rahanji support python like lists.
 curry list < [[], 1.3, 'hello', 1]
+#list operators:
+#in Progress...
