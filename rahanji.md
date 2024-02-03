@@ -63,3 +63,6 @@ Again there are the two types of if statements that work just like the functions
 If statements can also be used as expressions.
 curry foo < kim 1 = 1 jon 'math works'
 In such a case they dont have to be exhaustive, if 1 wouldn't be equal in this case the if statement would return null
+
+for loop:
+curry items < ['apple', 'banana', 'kiwi']
