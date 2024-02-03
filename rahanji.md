@@ -33,15 +33,15 @@ functions are declared by the keyword siu and then adding parenthesis.\
 There are two types of functions.
 expression functions:\
 ```
-siu add(a, b) > a + b #returns a + b\
+siu add(a, b) > a + b #returns a + b
 ```
 statement functions:
-
-siu addAndPrint(a, b):\
-  println(a + b)\
-  nasim a + b\
-atombome\
-
+```
+siu addAndPrint(a, b):
+  println(a + b)
+  nasim a + b
+atombome
+```
 You can see that you end a block with the keyword atombome.
 You can return a value using the nasim keyword.
 functions that dont return anything will return the builting value "null".
