@@ -37,4 +37,18 @@ siu addAndPrint(a, b):
   println(a + b)
   return a + b
 atombome
-You can see that you end a block with the keyword atombome
+you can see that you end a block with the keyword atombome
+functions that dont return anything will return the builting value "null"
+siu sayhello() > println('hello') 
+returns null
+
+variables:
+variables can be created with the curry keyword.
+curry name < "rahanji"
+variables have to be initialised instantly, but you can always just give them the null value
+curry foo < null
+curry foo < 20
+
+Just like most modern languages kotlin supports komments.
+#This is a comment
+Comments go until the end of a line
