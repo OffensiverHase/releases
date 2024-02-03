@@ -18,3 +18,23 @@ imports:
 There is a easy way to import things. Just putting "run('file.rahanji')" will run the specified file. This will load all functions in that file
 !The String passed as a parameter is viewed as a file name, so if the other file is in another directory specify it like that!
 
+the entry point: 
+An entry point of a rahanji application can be every file.
+The interpreter just goes through all the instructions of the specified file from top to bottom.
+
+print to the standart output:
+print prints its argument to the stdOut: print('hello world')
+println prints its argument to the stdOut adding a line break: println('Hello world')
+
+functions:
+functions are declared by the keyword siu and then adding parenthesis
+There are two types of functions
+expression functions:
+siu add(a, b) > a + b
+returns a + b
+statement functions:
+siu addAndPrint(a, b):
+  println(a + b)
+  return a + b
+atombome
+You can see that you end a block with the keyword atombome
