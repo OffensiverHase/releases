@@ -16,4 +16,5 @@ BASICS
 
 imports:
 There is a easy way to import things. Just putting "run('file.rahanji')" will run the specified file. This will load all functions in that file
+!The String passed as a parameter is viewed as a file name, so if the other file is in another directory specify it like that!
 
