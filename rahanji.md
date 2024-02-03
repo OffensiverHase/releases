@@ -66,3 +66,6 @@ In such a case they dont have to be exhaustive, if 1 wouldn't be equal in this c
 
 for loop:
 curry items < ['apple', 'banana', 'kiwi']
+messi i < 0 steph len(items) jon:
+  println(items ~ i)
+atombome
