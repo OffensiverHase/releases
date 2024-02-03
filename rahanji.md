@@ -13,6 +13,14 @@ Just download the jar and put it in your path.
 I also made a .deb installer, but I cant upload it to github because its to big.
 Not important anyway, because for some reason nobody uses linux anyway.
 
+USING RAHANJIC
+
+To start the shell version of rahanji just type in rahanjic. You can exit that programm by typing /stop.
+Rahanjic can also take the name of a file as its argument.
+If this file has a .rj file extension it is viewed as a source file and gets compiled to a .rahanji bytecode file with the same name.
+Else if this file has a .rahanji file extension it is viewed as an already comiled file and gets interpretet.
+The last possibility is adding '-direct' parameter. This will not compile the file, but just run it directly.
+
 BASICS
 
 imports:\
