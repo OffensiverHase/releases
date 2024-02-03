@@ -32,9 +32,9 @@ functions:\
 functions are declared by the keyword siu and then adding parenthesis.\
 There are two types of functions.
 expression functions:\
-
+```
 siu add(a, b) > a + b #returns a + b\
-
+```
 statement functions:
 
 siu addAndPrint(a, b):\
