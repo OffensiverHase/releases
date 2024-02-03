@@ -69,3 +69,6 @@ curry items < ['apple', 'banana', 'kiwi']
 messi i < 0 steph len(items) jon:
   println(items ~ i)
 atombome
+For loops also have the two types like every other loop.
+
+while loop
