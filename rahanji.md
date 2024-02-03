@@ -121,3 +121,31 @@ siu foo() > x #function
 null # null
 true # number(int) 1 for true and 0 for false
 
+common operators are:
+binary: +, -, *, /, ^
+logical: =, !=, {, }, {=, }=, !, &, |
+other: ~, <, >, ;
+
+
+builtins:
+There are three builtin types:
+
+true #1
+false #0
+null #null
+
+there are also some builtin functions:
+
+print('hello ') # print the parameter to stdout
+println('world') # print the parameter to stdout and terminate the line
+read() # read a single char from stdin. Returns the int value
+readline() # reads the next line from stdin
+error('value is not 1') # thrown a runtime exception with the given reason
+type(1) # returns the type of the parameter as a string
+string(2.4) # convert a value to a string
+number('1.3') # convert a string to a number. If the parameter is not a string string(param) is called first
+len([1,8]) # returns the length of a list or a string
+führer() # try it!
+clear() # runs 'clear' or 'cls' depending on you OS
+cmd('dir') # runs the parameter in the OS command line
+run('main.rahanji') #  runs the specified file
