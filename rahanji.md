@@ -50,5 +50,5 @@ curry foo < null
 curry foo < 20
 
 Just like most modern languages kotlin supports komments.
-#This is a comment
+#This is a comment.
 Comments go until the end of a line
