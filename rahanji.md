@@ -1,4 +1,4 @@
-GET STARTET WITH RAHANJI\
+GET STARTET WITH RAHANJI
 
 Rahanji is a 'modern' and not really mature functional and dynamic typed  programming language.
 Its designed, because I wanted to create my own programming language.
